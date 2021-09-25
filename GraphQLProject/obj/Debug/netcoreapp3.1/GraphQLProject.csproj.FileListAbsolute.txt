@@ -80,3 +80,10 @@ D:\Projetos\graphql\graphql-visual-studio\GraphQLProject\GraphQLProject\bin\Debu
 D:\Projetos\graphql\graphql-visual-studio\GraphQLProject\GraphQLProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 D:\Projetos\graphql\graphql-visual-studio\GraphQLProject\GraphQLProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\Projetos\graphql\graphql-visual-studio\GraphQLProject\GraphQLProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projetos\graphql\graphql-visual-studio\coffeeshop\GraphQLProject\obj\Debug\netcoreapp3.1\GraphQLProject.csproj.AssemblyReference.cache
+D:\Projetos\graphql\graphql-visual-studio\coffeeshop\GraphQLProject\obj\Debug\netcoreapp3.1\GraphQLProject.AssemblyInfoInputs.cache
+D:\Projetos\graphql\graphql-visual-studio\coffeeshop\GraphQLProject\obj\Debug\netcoreapp3.1\GraphQLProject.AssemblyInfo.cs
+D:\Projetos\graphql\graphql-visual-studio\coffeeshop\GraphQLProject\obj\Debug\netcoreapp3.1\GraphQLProject.csproj.CoreCompileInputs.cache
+D:\Projetos\graphql\graphql-visual-studio\coffeeshop\GraphQLProject\obj\Debug\netcoreapp3.1\GraphQLProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Projetos\graphql\graphql-visual-studio\coffeeshop\GraphQLProject\obj\Debug\netcoreapp3.1\GraphQLProject.dll
+D:\Projetos\graphql\graphql-visual-studio\coffeeshop\GraphQLProject\obj\Debug\netcoreapp3.1\GraphQLProject.pdb

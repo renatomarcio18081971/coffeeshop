@@ -30,7 +30,9 @@ namespace GraphQLProject
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddTransient<IProduct, ProductService>();
+            services.AddTransient<IMenu, MenuService>();
+            services.AddTransient<ISubMenu, SubMenuService>();
+            services.AddTransient<IReservation, ReservationService>();
             services.AddTransient<ProductType>();
             services.AddTransient<ProductQuery>();
             services.AddTransient<ProductMutation>();

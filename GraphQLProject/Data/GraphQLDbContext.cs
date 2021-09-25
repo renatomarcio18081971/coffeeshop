@@ -10,6 +10,8 @@ namespace GraphQLProject.Data
 
         }
 
-        public DbSet<Product> Product { get; set; }
+        public DbSet<Menu> Menu { get; set; }
+        public DbSet<SubMenu> SubMenu { get; set; }
+        public DbSet<Reservation> Reservation { get; set; }
     }
 }

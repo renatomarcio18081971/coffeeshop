@@ -11,5 +11,13 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.10" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Mutation\" />
+    <Folder Include="Query\" />
+    <Folder Include="Schema\" />
+    <Folder Include="Type\" />
+  </ItemGroup>
+
 
 </Project>

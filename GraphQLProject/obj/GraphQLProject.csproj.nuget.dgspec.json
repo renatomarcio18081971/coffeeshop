@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\graphql\\graphql-visual-studio\\GraphQLProject\\GraphQLProject\\GraphQLProject.csproj": {}
+    "D:\\Projetos\\graphql\\graphql-visual-studio\\coffeeshop\\GraphQLProject\\GraphQLProject.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\graphql\\graphql-visual-studio\\GraphQLProject\\GraphQLProject\\GraphQLProject.csproj": {
+    "D:\\Projetos\\graphql\\graphql-visual-studio\\coffeeshop\\GraphQLProject\\GraphQLProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\graphql\\graphql-visual-studio\\GraphQLProject\\GraphQLProject\\GraphQLProject.csproj",
+        "projectUniqueName": "D:\\Projetos\\graphql\\graphql-visual-studio\\coffeeshop\\GraphQLProject\\GraphQLProject.csproj",
         "projectName": "GraphQLProject",
-        "projectPath": "D:\\Projetos\\graphql\\graphql-visual-studio\\GraphQLProject\\GraphQLProject\\GraphQLProject.csproj",
+        "projectPath": "D:\\Projetos\\graphql\\graphql-visual-studio\\coffeeshop\\GraphQLProject\\GraphQLProject.csproj",
         "packagesPath": "C:\\Users\\Renato\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\graphql\\graphql-visual-studio\\GraphQLProject\\GraphQLProject\\obj\\",
+        "outputPath": "D:\\Projetos\\graphql\\graphql-visual-studio\\coffeeshop\\GraphQLProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
